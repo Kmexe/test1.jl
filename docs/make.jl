@@ -19,5 +19,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/Kmexe/test1.jl",
-    devbranch="main",
+    devbranch="gh-pages",
 )
